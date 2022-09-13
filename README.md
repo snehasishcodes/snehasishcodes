@@ -12,7 +12,7 @@
 
 ## Animes I have watched:
 
-<img src="https://imgs.search.brave.com/V5YwSeLKslG6yylApHtdedKGRlUvQu5dvqP_H9JUc3A/rs:fit:498:498:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy9hZGU5/OTQ1NjUwZTI1NGQw/MjFmYjZlYTQyMzM0/ZTc3MC90ZW5vci5n/aWY_aXRlbWlkPTE2/ODA0MzE4.gif"/>
+<img src="https://imgs.search.brave.com/V5YwSeLKslG6yylApHtdedKGRlUvQu5dvqP_H9JUc3A/rs:fit:498:498:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy9hZGU5/OTQ1NjUwZTI1NGQw/MjFmYjZlYTQyMzM0/ZTc3MC90ZW5vci5n/aWY_aXRlbWlkPTE2/ODA0MzE4.gif" height="50" width="50" />
 
 
 
