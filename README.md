@@ -29,7 +29,9 @@ I am a high school student who loves to code. Besides coding, I also spend my ti
 
 + [Aexo API](https://aexo.snehasish.cf)
 
+## My GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=snehasishcodes&show_icons=true&theme=synthwave)
 
 
 
