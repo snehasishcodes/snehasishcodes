@@ -31,7 +31,7 @@ I am a high school student who loves to code. Besides coding, I also spend my ti
 
 ## My GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=snehasishcodes&show_icons=true&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api?username=snehasishcodes&show_icons=true&title_color=4654ff&text_color=000000&icon_color=4654ff&bg_color=6bff87&border_color=4654ff&cache_seconds=7201&border_radius=5)
 
 
 
