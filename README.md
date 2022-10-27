@@ -2,17 +2,17 @@
 
 <h2 align="center">👦 I'm Snehasish Ray</h2>
 
-### 🧑‍💻 Web Developer, Weeb and Space Enthusiast
+<h3 align="center">🧑‍💻 Web Developer, Weeb and Space Enthusiast</h3>
 
-## 🌟 About Me
+<h3 align="center">🌟 About Me</h3>
 
-I am a high school student who loves to code. Besides coding, I also spend my time studying, reading books, watching animes, K-dramas, and listening to music.
+<p align="center">I am a high school student who loves to code. Besides coding, I also spend my time studying, reading books, watching animes, K-dramas, and listening to music.</p>
 
-## Discord: `snehasish#2240` or `snehasishkun#0565`
+### Discord: `snehasish#2240` or `snehasishkun#0565`
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/929009383826948186?idleMessage=Currently%20Idle&theme=light&bg=6bff87)](https://discord.com/users/929009383826948186)
 
-## My GitHub Stats
+### My GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=snehasishcodes&show_icons=true&title_color=4654ff&text_color=000000&icon_color=4654ff&bg_color=6bff87&hide_border=true&cache_seconds=7201&border_radius=5)
 
@@ -20,10 +20,10 @@ I am a high school student who loves to code. Besides coding, I also spend my ti
 
 ![](https://github-profile-trophy.vercel.app/?username=snehasishcodes&theme=matrix&no-bg=true&column=3&margin-w=15&margin-h=15&no-frame=true)
 
-## [Click here to visit My Portfolio](https://snehasish.cf)
+##### [Click here to visit My Portfolio](https://snehasish.cf)
 
 
-## 📝 Projects
+### 📝 Projects
 
 + [Fluwence Developement](https://github.com/fluwence)
 
