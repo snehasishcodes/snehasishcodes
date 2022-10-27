@@ -1,5 +1,7 @@
 <h1 style="text-align:center"><img src="https://images-ext-2.discordapp.net/external/ykT7JMYL25xx7it4m8Cu1QulEfhVjfjw7CfDn3yWaHc/https/cdn.discordapp.com/emojis/783368519181008957.gif" height="25" width="25"> Hello!</h1>
+
 <h2 style="text-align:center">👦 I'm Snehasish Ray</h2>
+
 ### 🧑‍💻 Web Developer, Weeb and Space Enthusiast
 
 ## 🌟 About Me
