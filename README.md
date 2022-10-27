@@ -1,6 +1,6 @@
-<h1 style="text-align:center"><img src="https://discord.com/assets/df7ba0f4020ca70048a0226d1dfa73f6.svg" height="25" width="25"> Hello! I'm Snehasish</h1>
+<h1 style="text-align:center"><img src="https://images-ext-2.discordapp.net/external/ykT7JMYL25xx7it4m8Cu1QulEfhVjfjw7CfDn3yWaHc/https/cdn.discordapp.com/emojis/783368519181008957.gif" height="25" width="25"> Hello! I'm Snehasish</h1>
 
-<img src="https://discord.com/assets/001ee681fa13f39b4475ebf139a7ac64.svg" height="25" width="25"> A Full Stack Web Developer
+<img src="https://discord.com/assets/001ee681fa13f39b4475ebf139a7ac64.svg" height="25" width="25"> Web Developer, Weeb and Space Enthusiast
 
 ## Languages and Tools I use:
 
