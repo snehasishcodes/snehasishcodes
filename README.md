@@ -7,7 +7,7 @@
 
 ## Discord
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/929009383826948186?idleMessage=Idle)](https://discord.com/users/929009383826948186)
+[![Discord Presence](https://lanyard.cnrad.dev/api/929009383826948186?idleMessage=Currently%20Idle)](https://discord.com/users/929009383826948186)
 
 ## Languages and Tools I use:
 
