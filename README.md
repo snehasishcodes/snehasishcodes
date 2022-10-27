@@ -18,7 +18,7 @@ I am a high school student who loves to code. Besides coding, I also spend my ti
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=snehasishcodes&show_icons=true&title_color=4654ff&text_color=000000&icon_color=4654ff&bg_color=6bff87&hide_border=true&cache_seconds=7201&border_radius=5)
 
-![](https://github-profile-trophy.vercel.app/?username=snehasishcodes&theme=matrix&no-bg=true&column=3&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=snehasishcodes&theme=matrix&no-bg=true&column=3&margin-w=15&margin-h=15&no-frame=true)
 
 
 
