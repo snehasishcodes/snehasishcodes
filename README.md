@@ -4,7 +4,7 @@
 
 <h3 align="center">🧑‍💻 Web Developer, Weeb and Space Enthusiast</h3>
 
-<h3 align="center">🌟 About Me</h3>
+<h3 align="center"><u>🌟 About Me</u></h3>
 
 <p align="center">I am a high school student who loves to code. Besides coding, I also spend my time studying, reading books, watching animes, K-dramas, and listening to music.</p>
 
