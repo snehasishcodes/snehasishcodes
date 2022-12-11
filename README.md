@@ -25,7 +25,7 @@
 
 ### 📝 Projects
 
-+ [Fluwence Developement](https://github.com/fluwence)
++ [XTFZ](https://github.com/xtfz)
 
 + [Task Manager](https://tasks.snehasish.cf)
 
